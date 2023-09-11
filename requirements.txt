@@ -168,3 +168,8 @@ zeromq=4.3.4=h23ab428_0
 zipp=3.11.0=py38hecd8cb5_0
 zlib=1.2.13=h4dc903c_0
 zstd=1.5.5=hc035e20_0
+pytest
+pytest-cov
+flake8
+pylint
+pydocstyle
